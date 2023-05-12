@@ -1,7 +1,7 @@
 # Python Turtles
 
 <div align="center">
-  <img src="https://michellemaia.com/wp-content/uploads/2020/08/turtle.gif" alt="Python Turtles" />
+  <img src="https://i.ytimg.com/vi/_FxzEAIWvtE/maxresdefault.jpg" alt="Python Turtles" />
 </div>
 
 
